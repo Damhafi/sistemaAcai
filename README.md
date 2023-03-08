@@ -1,5 +1,4 @@
-# Dillinger
-## Programa simples de montar cardápio
+# Programa simples de montar cardápio
 
 ReactJs, ContextAPI, Styled-Components, Vite, Json Server
 
